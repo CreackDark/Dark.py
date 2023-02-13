@@ -4,5 +4,5 @@ cd Darrk.py
 chmod +x *
 python Darkk.py
 Create By Creack_Dark
-به اسکریپت من خوش آمدید
+welcome to script me ℹ️ 💪
 script for scan_port 💜🗿
